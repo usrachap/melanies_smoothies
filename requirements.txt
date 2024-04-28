@@ -2,4 +2,4 @@
 #requirements.txt
 snowflake-connector-python
 snowflake-snowpark-python
-streamlit==1.13.1
+streamlit==1.13.0
